@@ -135,6 +135,7 @@ loan-status-prediction/
 
 ## 📌 Notes
 
-- The dataset can be downloaded from the [Analytics Vidhya Loan Prediction Challenge](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/).
-- Missing values are handled by dropping rows — future improvements could explore imputation strategies.
+- The dataset can be downloaded from the Kaggle
+(https://www.kaggle.com/datasets/moma12/train-u6lujux-cvtuz9i-1).
+- Missing values are handled by dropping rows future improvements could explore imputation strategies.
 - Feature scaling was not applied; adding `StandardScaler` may improve KNN and SVM performance.
